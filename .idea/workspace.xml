@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91599397-f120-45dc-bb6a-a54a1500e47b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/mail-mind-extension/content.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mail-mind-extension/content.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mail-mind-extension/manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mail-mind-java/src/main/java/com/email/email_writer_sb/EmailWriterSbApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/mail-mind-java/src/main/java/com/email/EmailWriterSbApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +25,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="controller-and-service" />
+        <entry key="$PROJECT_DIR$" value="building-frontend" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -59,7 +61,7 @@
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;Spring Boot.EmailWriterSbApplication.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;building-frontend&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;building-extension&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/Documents/mail-mind&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -103,7 +105,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1751345535433</updated>
-      <workItem from="1751345536768" duration="15178000" />
+      <workItem from="1751345536768" duration="15736000" />
     </task>
     <servers />
   </component>
