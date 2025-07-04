@@ -6,11 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="91599397-f120-45dc-bb6a-a54a1500e47b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mail-mind-react/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/mail-mind-react/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mail-mind-react/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/mail-mind-react/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mail-mind-react/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/mail-mind-react/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mail-mind-react/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/mail-mind-react/src/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mail-mind-react/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/mail-mind-react/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mail-mind-java/src/main/java/com/email/email_writer_sb/EmailWriterSbApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/mail-mind-java/src/main/java/com/email/EmailWriterSbApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,9 +51,14 @@
   &quot;keyToString&quot;: {
     &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;Spring Boot.EmailWriterSbApplication.executor&quot;: &quot;Run&quot;,
     &quot;git-widget-placeholder&quot;: &quot;building-frontend&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/Documents/mail-mind&quot;,
@@ -69,6 +70,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Documents\mail-mind\mail-mind-java\src\main\java\com\email" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="EmailWriterSbApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <envs>
@@ -97,7 +103,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1751345535433</updated>
-      <workItem from="1751345536768" duration="12958000" />
+      <workItem from="1751345536768" duration="15178000" />
     </task>
     <servers />
   </component>
