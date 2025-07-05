@@ -1,4 +1,4 @@
-# Email Generator System
+# MailMind - AI Email Generator System
 
 A modern email generation and management system built with Spring Boot and React. This project provides both a REST API service for email generation and a browser extension for Gmail integration.
 
