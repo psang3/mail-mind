@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91599397-f120-45dc-bb6a-a54a1500e47b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README-Docker.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mail-mind-react/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mail-mind-react/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mail-mind-react/nginx.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nginx.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mail-mind-java/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mail-mind-java/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mail-mind-java/src/main/java/com/email/email_writer_sb/EmailGeneratorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/mail-mind-java/src/main/java/com/email/email_writer_sb/EmailGeneratorService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +112,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1751345535433</updated>
-      <workItem from="1751345536768" duration="17008000" />
+      <workItem from="1751345536768" duration="20025000" />
     </task>
     <servers />
   </component>

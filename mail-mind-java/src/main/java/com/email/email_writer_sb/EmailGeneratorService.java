@@ -1,4 +1,4 @@
-package com.email.email_writer_sb;
+package com.email.writer.app;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
