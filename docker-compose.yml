@@ -1,0 +1,33 @@
+version: '3.8'
+
+services:
+  # Backend Spring Boot application
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: email-generator-api
+    ports:
+      - "8080:8080"
+    environment:
+      - SPRING_PROFILES_ACTIVE=docker
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8080/actuator/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    restart: unless-stopped
+
+  # Frontend React application
+  frontend:
+    build:
+      context: ./mail-mind-react
+      dockerfile: Dockerfile
+    container_name: email-generator-ui
+    ports:
+      - "80:80"
+    depends_on:
+      - backend
+    restart: unless-stopped
+
+  # Chrome extension is not containerized as it runs in the browser
